@@ -1,2 +1,2 @@
 # elangwane.io
-First attempt
+First static high school website
