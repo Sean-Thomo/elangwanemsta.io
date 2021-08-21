@@ -1,6 +1,10 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
+* {
+  padding: 0;
+  margin: 0;
+}
 
 body {
   padding-top: 3rem;
