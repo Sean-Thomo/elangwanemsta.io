@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400&display=swap");
 
 * {
   padding: 0;
@@ -17,11 +18,13 @@ ul {
 }
 
 p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Work Sans", sans-serif;
+  /* font-family: "Montserrat", sans-serif; */
 }
 
 #navigation,
-h1 {
+h1,
+h2 {
   font-family: "Playfair Display", serif;
 }
 
